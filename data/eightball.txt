@@ -1,0 +1,51 @@
+Yes.
+Yes.
+Yes.
+Yes.
+No.
+No.
+No.
+No.
+Perhaps.
+Maybe.
+I think so.
+Definitely.
+Definitely not.
+I doubt it.
+That's unlikely.
+I think it's quite likely.
+Obviously.
+That's a dumb question.
+Probably.
+Probably not.
+Good question!
+:thinking: That's a tough one.
+I'll think about it.
+Nobody cares about that question.
+Why would I answer that?
+Sure, why not?
+Who knows? :shrug:
+Of course.
+Of course not.
+I believe so.
+How would I know that?
+:shrug: Ask somebody else.
+I don't think I can help you with that one.
+Ask again.
+Sorry %n, I don't know this one.
+:thinking: "%q" is a very difficult question.
+Hmm.... I'm not sure.
+%n, that is a very good question, but I'll have to get back to you on it.
+You should ask %n that.
+%q
+:thinking:
+Does the Pope shit in the woods?
+Oui.
+Non.
+Sakki kara kiite nai desho watashi no hanashi?
+Uh...
+I might not be the best one to ask.
+Yare yare daze.
+?
+There's probably an answer to that, but I don't have it.
+You can decide that yourself.

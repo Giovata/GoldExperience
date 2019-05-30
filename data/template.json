@@ -1,0 +1,32 @@
+{
+    "server_template":
+    {
+        "id": "id",
+        "name": "name",
+        "settings":
+        {
+            "prefix": "!",
+            "custom_commands": [],
+            "max_sentences": 10,
+            "max_potatoes": 50,
+            "reaction_rarity": -1
+        }
+    },
+    "server_maximum_settings":
+    {
+        "prefix": 100,
+        "custom_commands": null,
+        "max_sentences": 50,
+        "max_potatoes": 100,
+        "reaction_rarity": 0
+    },
+    "custom_command_template":
+    {
+        "aliases": [],
+        "description": "description",
+        "output": "output",
+        "min_perm_level": 0,
+        "required_roles": [],
+        "listed": true
+    }
+}
