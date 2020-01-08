@@ -30,7 +30,7 @@ def get_properties():
     }
 
 def get_info(V, P): 
-    return f"__**Gold Experience v{V}**__\n\nCreated by *Potato#6666*\nWritten in Python 3.6 using discord.py API\nFor a list of commands, write `{P}help`.\nIf you have any questions about the bot, or suggestions, contact the creator.\nSource code is available at <https://github.com/giovata/GoldExperience>."
+    return f"__**Gold Experience v{V}**__\n\nCreated by *Giovata#0001*\nWritten in Python 3.6 using discord.py API\nFor a list of commands, write `{P}help`.\nIf you have any questions about the bot, or suggestions, contact the creator.\nSource code is available at <https://github.com/giovata/GoldExperience>."
 
 async def run(cmd_context):
     await cmd_context.msg.channel.send(get_info(cmd_context.settings["version"], cmd_context.settings["prefix"]))
